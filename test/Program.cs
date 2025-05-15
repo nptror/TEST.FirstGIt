@@ -2,3 +2,7 @@
 Console.WriteLine("Hello, C#, My name is Thinh");
 Console.WriteLine("Hello, C#, My name is Thinh");
 string s = "1 message";
+string s = "1 message";
+string s = "1 message";
+string s = "1 message";
+string s = "1 message";
